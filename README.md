@@ -20,6 +20,7 @@ I'm a passionate web developer interested in building cool things.
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </p>
+
 ### My Skills
 
 <p>
