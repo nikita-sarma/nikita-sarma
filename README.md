@@ -2,7 +2,7 @@
 
 I'm a passionate web developer interested in building cool things.
 
-- Btech Student at CIT Kokrajhar
+- Tech fellow at Tech4good Community.
 -  I'm currently learning **AI/ML**.
 - You can View my repositories
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/nikitasarma080/)
