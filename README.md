@@ -94,8 +94,6 @@ nikita@github:~$ whoami
 <img src="https://raw.githubusercontent.com/nikita-sarma/nikita-sarma/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 <!--END_SECTION:snake-->
 
-> ℹ️ The snake animation needs a one-time GitHub Action setup — see the note below.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00F5A0,100:00D9F5&height=100&section=footer&animation=twinkling"/>
