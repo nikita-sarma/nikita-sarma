@@ -1,100 +1,112 @@
+<!-- Animated Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=Nikita%20Sarma&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+
 <div align="center">
 
 # 👋 Hi, I'm Nikita Sarma
 
-### 💻 Computer Science Student | AI/ML Enthusiast | Full Stack Learner
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Explorer;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things+🚀" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Explorer;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
+![](https://komarev.com/ghpvc/?username=nikita-sarma&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-## 💻 ~/whoami
+# 💻 ~/whoami
 
 ```bash
-> Name      : Nikita Sarma
-> Education : B.Tech in Computer Science & Engineering
-> College   : Central Institute of Technology Kokrajhar
-> Location  : Assam, India 🇮🇳
+nikita@github:~$ whoami
 
-> Currently :
-  • Learning Artificial Intelligence & Machine Learning
-  • Building Full Stack Web Applications
-  • Exploring Open Source
+Name        : Nikita Sarma
+Role        : Computer Science Student
+College     : Central Institute of Technology Kokrajhar
+Location    : Assam, India
 
-Status : 🚀 Coding • Learning • Growing
+Interests   : AI • Machine Learning • Web Development
+Learning    : Full Stack Development
+Community   : Tech4Good Community
+
+Status      : 🚀 Building • Learning • Growing
 ```
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech CSE Student at **Central Institute of Technology Kokrajhar**
+- 🎓 B.Tech Computer Science Student
 - 🌱 Currently learning **Artificial Intelligence & Machine Learning**
-- 💻 Passionate about **Web Development** and **Open Source**
-- 🤝 Tech Fellow at **Tech4Good Community**
-- 🚀 Love building projects that solve real-world problems
-- 🎯 Aspiring Software Engineer
+- 💻 Passionate about Full Stack Web Development
+- 🤝 Tech Fellow at Tech4Good Community
+- 🚀 Interested in Open Source
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,python,c,git,github,vscode,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nextjs,nodejs,mongodb,mysql,git,github,vscode,linux"/>
 
-</p>
-
----
-
-## ⚡ Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikita-sarma&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-sarma&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=nikita-sarma&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 GitHub Trophies
 
-- 🌐 Ghost CMS Custom Themes
-- 🤖 AI & Machine Learning Projects
-- 🧠 NLP & Language Processing
-- 💼 Personal Portfolio Website
-- 🤝 Open Source Contributions
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nikita-sarma&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikita-sarma&theme=tokyo-night"/>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ Ghost CMS Custom Themes
+
+⭐ AI & Machine Learning Projects
+
+⭐ Portfolio Website
+
+⭐ Open Source Contributions
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/nikitasarma080/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -108,22 +120,26 @@ Status : 🚀 Coding • Learning • Growing
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💡 Quote
+# 💬 Random Dev Quote
 
-> **"Code. Learn. Build. Repeat."** 🚀
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nikita-sarma&style=for-the-badge&color=0e75b6"/>
-
 ### ⭐ Thanks for visiting my profile!
 
-*"Every expert was once a beginner. Keep learning and keep building."*
+### 💙 "Code • Learn • Build • Repeat"
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
