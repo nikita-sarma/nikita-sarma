@@ -1,129 +1,105 @@
 <div align="center">
 
-# >_ Nikita Sarma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&section=header&text=Nikita%20Sarma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Initializing+Profile...;Loading+Developer+Data...;Welcome+to+my+GitHub!"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nikita+%F0%9F%91%8B;AI+%26+ML+Explorer;Full+Stack+Developer;Open+Source+Learner;Welcome+to+my+GitHub!"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/nikitasarma080/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nikitasarma.cse@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/nikita-sarma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     SYSTEM INFORMATION                      ║
-╠══════════════════════════════════════════════════════════════╣
-║ 👤 User      : Nikita Sarma                                ║
-║ 🎓 Education : B.Tech CSE                                  ║
-║ 📍 Location  : Assam, India                                ║
-║ 🟢 Status    : Online                                      ║
-║ ⚡ Focus     : AI • ML • Full Stack                        ║
-║ 💻 Editor    : VS Code                                     ║
-║ 🐧 OS        : Linux                                       ║
-╚══════════════════════════════════════════════════════════════╝
+## 🖥️ System Information
+
+```yaml
+User:      Nikita Sarma
+Education: B.Tech, Computer Science Engineering
+Location:  Assam, India
+Status:    🟢 Online
+Focus:     AI • Machine Learning • Full Stack Development
+Editor:    VS Code
+OS:        Linux
+Shell:     zsh
 ```
 
-## ~/skills
-
-```text
-Python          ████████████████████ 90%
-
-JavaScript      ████████████████░░░░ 75%
-
-React           ███████████████░░░░░ 70%
-
-Node.js         █████████████░░░░░░░ 65%
-
-Git             ██████████████████░░ 85%
-
-Linux           ████████████████░░░░ 80%
-```
-
----
-
-## 💻 Current Mission
+## 🚀 About Me
 
 ```bash
 nikita@github:~$ whoami
-
-Computer Science Student
-
-AI & Machine Learning Explorer
-
-Full Stack Developer
-
-Open Source Learner
+> Computer Science Student
+> AI & Machine Learning Explorer
+> Full Stack Developer
+> Open Source Learner
 ```
 
----
+- 🔭 Currently working on AI/ML and full-stack projects
+- 🌱 Constantly learning new tools and frameworks
+- 💬 Ask me about Python, React, or Deep Learning
+- ⚡ Fun fact: I love turning terminal output into art
 
-## 🛠 Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<p align="center">
+## 🧠 Skills
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nextjs,nodejs,mongodb,mysql,git,github,vscode,linux"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nextjs,nodejs,mongodb,mysql,git,github,vscode,linux&theme=dark" />
 </p>
 
----
+<div align="center">
 
-## 📊 GitHub Dashboard
+| Skill | Proficiency |
+|---|---|
+| Python | ![](https://progress-bar.xyz/90?title=&color=00F5A0&width=250) |
+| JavaScript | ![](https://progress-bar.xyz/75?title=&color=00D9F5&width=250) |
+| React | ![](https://progress-bar.xyz/70?title=&color=61DAFB&width=250) |
+| Node.js | ![](https://progress-bar.xyz/65?title=&color=68A063&width=250) |
+| Git | ![](https://progress-bar.xyz/85?title=&color=F1502F&width=250) |
+| Linux | ![](https://progress-bar.xyz/80?title=&color=FCC624&width=250) |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikita-sarma&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-sarma&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nikita-sarma&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-sarma&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=nikita-sarma&theme=chartreuse-dark&hide_border=true"/>
-
 </p>
 
----
-
-## 🏆 Achievements
+## 🏆 Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikita-sarma&theme=matrix&no-frame=true&row=1"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=nikita-sarma&theme=matrix&no-frame=true&row=1&column=7"/>
 </p>
 
----
+## 📈 Contribution Graph
 
-## 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikita-sarma&theme=react-dark&hide_border=true" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikita-sarma&theme=chartreuse-dark"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
+## 🐍 Contribution Snake
 
-## 🌐 Connect
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/nikita-sarma/nikita-sarma/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<!--END_SECTION:snake-->
 
-<p align="center">
+> ℹ️ The snake animation needs a one-time GitHub Action setup — see the note below.
 
-<a href="https://www.linkedin.com/in/nikitasarma080/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<div align="center">
 
-<a href="mailto:nikitasarma.cse@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,100:00F5A0&height=120&section=footer"/>
 
-<a href="https://github.com/nikita-sarma">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+**"Keep Learning. Keep Building."** 🚀
 
-</p>
-
----
-
-```bash
-nikita@github:~$ echo "Keep Learning. Keep Building."
-
-Keep Learning. Keep Building.
-```
+</div>
