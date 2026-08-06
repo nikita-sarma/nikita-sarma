@@ -14,24 +14,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🖥️ System Information
-
-```yaml
-User:      Nikita Sarma
-Education: B.Tech, Computer Science Engineering
-Location:  Assam, India
-Status:    🟢 Online
-Focus:     AI • Machine Learning • Full Stack Development
-Editor:    VS Code
-OS:        Linux
-Shell:     zsh
-```
-
 ## 🚀 About Me
 
 ```bash
 nikita@github:~$ whoami
-> Computer Science Student
+> CSE grad @CIT, kokrajhar
 > AI & Machine Learning Explorer
 > Full Stack Developer
 > Open Source Learner
