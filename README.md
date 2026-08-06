@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00F5A0,100:00D9F5&height=180&section=header&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:00F5A0,100:00D9F5&height=180&section=header&animation=twinkling&text=Nikita%20Sarma&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=68&descSize=16&descColor=0F0F0F"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nikita+%F0%9F%91%8B;AI+%26+ML+Explorer;Full+Stack+Developer;Open+Source+Learner;Welcome+to+my+GitHub!"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=650&lines=AI+%26+ML+Explorer;Full+Stack+Developer;Open+Source+Learner;Welcome+to+my+GitHub!"/>
 
 <br/>
 
