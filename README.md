@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🚀 About Me
+## About Me
 
 ```bash
 nikita@github:~$ whoami
@@ -31,7 +31,7 @@ nikita@github:~$ whoami
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🧠 Skills
+## Skills
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nextjs,nodejs,mongodb,mysql,git,github,vscode,linux&theme=dark" />
